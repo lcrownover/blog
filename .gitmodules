@@ -1,3 +1,9 @@
 [submodule "themes/fuji"]
 	path = themes/fuji
 	url = https://github.com/amzrk2/hugo-theme-fuji.git
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "harbor"]
+	path = harbor
+	url = https://github.com/matsuyoshi30/harbor.git
